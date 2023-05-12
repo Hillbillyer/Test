@@ -1,2 +1,2 @@
-#!.bin.bash
-ping 10.180.10.69
+#! /bin/bash
+ping 10.180.10.$
